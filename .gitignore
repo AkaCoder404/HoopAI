@@ -1,0 +1,16 @@
+
+# Files to ignore
+.vscode
+.env
+.DS_Store
+__pycache__/
+# 
+notes.md
+
+# Folders to ignore
+datasets/
+videos/
+runs/
+models/
+output/
+tmp/
